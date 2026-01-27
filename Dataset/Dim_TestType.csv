@@ -1,0 +1,6 @@
+TestType_ID,TestType_Name,Category,Expected_TAT_Minutes
+T01,CBC (Blood),Hematology,60
+T02,X-Ray Chest,Radiology,120
+T03,MRI Brain,Radiology,240
+T04,Lipid Profile,Biochemistry,90
+T05,COVID RT-PCR,Virology,360

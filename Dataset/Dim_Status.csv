@@ -1,0 +1,7 @@
+Status_ID,Status_Name,Is_Final_Status
+S01,Registered,False
+S02,Sample Collected,False
+S03,Processing,False
+S04,Report Generating,False
+S05,Completed,True
+S06,Cancelled,True
