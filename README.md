@@ -22,20 +22,20 @@ Managing patient expectations in healthcare relies heavily on speed and reliabil
 
 ### 1. Welcome Page (Navigation)
 *The landing page designed to set context and guide the user.*
-![Welcome Page](image_d66c9f.png)
+<img src="Screenshots/Welcome Page.png" alt="Welcome Page" width="800">
 * **Design Strategy:** Features a clean, high-contrast layout with a clear value proposition ("Operational Performance & TAT Analysis").
 * **Navigation:** Clear call-to-action buttons allow stakeholders to jump immediately to the **Executive Summary** (High Level) or **Gap Analysis** (Deep Dive).
 
 ### 2. Executive Summary
 *High-level view for senior stakeholders showing volume trends and regional performance.*
-![Executive Summary](image_d6699a.png)
+<img src="Screenshots/Executive Summary.png" alt="Executive Summary Dashboard" width="800">
 * **Key Insight:** A clear "Monsoon Surge" (Jul-Sep) is visible, where increased test volumes correlate directly with a spike in SLA breaches.
 * **Visuals:** KPI Cards, Trend Analysis (Bar & Line Combo), and Regional Performance rankings.
 * **Feature:** Includes a "Detailed View" table at the bottom for granular record-level auditing.
 
 ### 3. Gap Analysis (Deep Dive)
 *Operational drill-down to identify the "Why" behind the delays.*
-![Gap Analysis](image_a8ceb6.png)
+<img src="Screenshots/Gap Analysis.png" alt="Gap Analysis Dashboard" width="800">
 * **The "Quadrant" Logic:**
     * **Top-Left:** Overall status (Completion vs. Cancellation).
     * **Top-Right:** Logistics friction (Misallocated tests).
