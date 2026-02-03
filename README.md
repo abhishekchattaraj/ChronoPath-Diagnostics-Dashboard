@@ -81,7 +81,7 @@ The Power BI model is built on a robust Star Schema:
 2.  **Generate Data (Optional):**
     Run the Python script to create a fresh dataset with new random variations.
     ```bash
-    python data_generator.py
+    python chromo_fact_table_generation.py
     ```
     *This creates `Fact_Test_Performance_Final_v2.csv`.*
 3.  **Open the Dashboard:**
