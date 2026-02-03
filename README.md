@@ -98,8 +98,8 @@ The Power BI model is built on a robust Star Schema:
 
 ## 📬 Contact
 **Abhishek Chattaraj**
-* [LinkedIn Profile Link]
-* [Portfolio Link]
+* [http://www.linkedin.com/in/abhishek-chattarajj]
+* [https://www.datascienceportfol.io/abhishekchattarajj]
 
 ---
 *Note: This project uses synthetic data generated for educational and portfolio purposes.*
