@@ -48,7 +48,7 @@ Managing patient expectations in healthcare relies heavily on speed and reliabil
 ## 🛠️ Technical Architecture
 
 ### Data Generation (Python)
-Instead of using generic dummy data, I wrote a custom **Python script** (`data_generator.py`) to simulate realistic operational chaos. The script generates 20,000 records with built-in statistical "stories":
+Instead of using generic dummy data, I wrote a custom **Python script** (`chromo_fact_table_generation.py`) to simulate realistic operational chaos. The script generates 20,000 records with built-in statistical "stories":
 1.  **Seasonality Logic:** Programmed a volume spike in Q3 (Monsoon Season) to simulate viral outbreaks.
 2.  **Center Personalities:**
     * *Chandigarh:* High efficiency, low breach rate (~5%).
