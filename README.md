@@ -51,8 +51,8 @@ Managing patient expectations in healthcare relies heavily on speed and reliabil
 Instead of using generic dummy data, I wrote a custom **Python script** (`chromo_fact_table_generation.py`) to simulate realistic operational chaos. The script generates 20,000 records with built-in statistical "stories":
 1.  **Seasonality Logic:** Programmed a volume spike in Q3 (Monsoon Season) to simulate viral outbreaks.
 2.  **Center Personalities:**
-    * *Chandigarh:* High efficiency, low breach rate (~5%).
-    * *Kolkata:* Modeled as a logistical bottleneck with a ~22% breach rate.
+    * *Chandigarh:* High efficiency, low breach rate (~13%).
+    * *Kolkata:* Modeled as a logistical bottleneck with a ~25% breach rate.
 3.  **Logistics Friction:** Randomly assigned "Actual Centers" different from "Processing Centers" to simulate routing errors, adding a time penalty to Stage 1.
 4.  **Test Complexity:** Variable processing times based on test type (e.g., Blood tests are fast; MRIs vary significantly).
 
